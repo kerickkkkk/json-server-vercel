@@ -1,6 +1,11 @@
 {
     "users": [
-    
+          "email": "admin@mail.com",
+      "password": "$2a$10$LTSXhuvdZ4dfkmbP1G3LuekCogOMswVAV8hwhshF8e7d5mYgxKR6W",
+      "id": 1,
+      "role": [
+        "admin"
+      ]
   ],
   "products": [
     {
